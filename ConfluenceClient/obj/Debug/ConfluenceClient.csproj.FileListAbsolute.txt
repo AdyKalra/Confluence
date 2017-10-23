@@ -1,0 +1,8 @@
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\ConfluenceClient\bin\Debug\ConfluenceClient.dll
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\ConfluenceClient\bin\Debug\ConfluenceClient.pdb
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\ConfluenceClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\ConfluenceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\ConfluenceClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\ConfluenceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\ConfluenceClient\obj\Debug\ConfluenceClient.dll
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\ConfluenceClient\obj\Debug\ConfluenceClient.pdb

@@ -1,0 +1,12 @@
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\TestRunner.exe.config
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\TestRunner.exe
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\TestRunner.pdb
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\ConfluenceClient.dll
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\ConfluenceClient.pdb
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\obj\Debug\TestRunner.csprojResolveAssemblyReference.cache
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\obj\Debug\TestRunner.exe
+C:\Users\ady.kalra\Downloads\ConfluenceRestClient-master\TestRunner\obj\Debug\TestRunner.pdb
